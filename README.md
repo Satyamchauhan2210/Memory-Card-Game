@@ -1,0 +1,1 @@
+The Memory Card Game is a fun and interactive web-based game where the player tries to match pairs of cards. The game starts with cards placed face-down. The player clicks two cards at a time to flip them and try to find a matching pair. The game tracks the number of moves and the time taken to finish.
